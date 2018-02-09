@@ -15,13 +15,13 @@
 ## Information to be stored
 
 * Synopsis Debates
-..* English Date
-..* Indian Date
-..* House Name
-..* secretaryGeneral Name
-..* Debates
+  * English Date
+  * Indian Date
+  * House Name
+  * Secretary General Name
+  * Debates
  
-*** Name
+* Name
 ** Debate Type
 *** Bill Id (If exists)
 ** Speaker Details
