@@ -20,15 +20,13 @@
   * House Name
   * Secretary General Name
   * Debates
- 
-* Name
-** Debate Type
-*** Bill Id (If exists)
-** Speaker Details
-*** Member Name 
-*** Party Name
-*** Gender
-** Speaker Speech
+    * Debate Type
+    * Bill Id (If exists)
+    * Speaker Details
+      * Member Name
+      * Party Name
+      * Gender
+    * Speeches
 
 ## Manual Work
 
