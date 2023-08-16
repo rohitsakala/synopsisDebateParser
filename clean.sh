@@ -2,3 +2,4 @@
 rm -r ./*.pyc
 rm -r ./*/*/*.pyc
 rm -r ./*/*.pyc
+sa
